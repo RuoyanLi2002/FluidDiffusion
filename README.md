@@ -12,8 +12,8 @@
 - **t2p.py**: Converts TensorFlow data into pickle format.
   
 ## `recon_loss`
-- **model.py**: The model implementation with MSE as the loss function.
-- **train.py**: The script for training the model with MSE as the loss function.
+- **model.py**: The model implementation with MSE of reconstructed sample as the loss function.
+- **train.py**: The script for training the model with MSE of reconstructed sample as the loss function.
 
 ## `InteractionNetwork`
 - **model.py**: The original implementation of the Interaction Network model.
